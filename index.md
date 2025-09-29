@@ -25,17 +25,17 @@ Email: nwolf3275@gmail.com
 
 - **Untitled Interperetability Research** - 2025
 
-Shira Wein, Nathan Wolf, et al.
+  Shira Wein, Nathan Wolf, et al.
 
 
-TL;DR: Conducting interpretability research on a classifier that detects "translationese", text translated into english from another language.
+  TL;DR: Conducting interpretability research on a classifier that detects "translationese", text translated into english from another language.
 
 ### Publications
 - **Linking syntactic computation to eye movements in reading:  Evidence from agreement** - 2025
 
-Adrian Staub, Nathan Wolf, Brian Dillon
+  Adrian Staub, Nathan Wolf, Brian Dillon
 
-*Submitted to Open Mind: Discoveries in Cognitive Science*
+  *Submitted to Open Mind: Discoveries in Cognitive Science*
 
 
-TL;DR: Examining the sources of the slowdown in text processing when disambiguating an ungrammatical sentence in which the ungrammaticality was not detected
+  TL;DR: Examining the sources of the slowdown in text processing when disambiguating an ungrammatical sentence in which the ungrammaticality was not detected
