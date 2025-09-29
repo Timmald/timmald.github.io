@@ -9,7 +9,7 @@ I also have experience in broader machine learning, as well as software engineer
 - GitHub
 - LinkedIn
 - **[Experience](/experience)**
-- **Personal Projects**
+- **[Personal Projects](/projects)**
 
 Email: nwolf3275@gmail.com
 
