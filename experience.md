@@ -1,10 +1,19 @@
 ## Experience
 
-My non-research experience
+My most relevant non-research experience
 - **Shell TechWorks**
 
-**Software Engineer Intern**
+  **Software Engineer Intern**
 
-*Summers 2024, 2025*
+  *Summers 2024, 2025*
 
-Investigated the ways LLMs could be use for real-world business cases at TechWorks, including querying databases with natural language, complex document evaluation, and how/when to fine-tune LLMs for the best results and lowest cost. Also assisted with software engineering tasks, including participating in 2 weeklong TechWorks hackathons, and refactored a suite of old web/mobile applications totalling 100,000 lines of code. 
+  Investigated the ways LLMs could be use for real-world business cases at TechWorks, including querying databases with natural language, complex document evaluation, and how/when to fine-tune LLMs for the best results and lowest cost. Also assisted with software engineering tasks, including participating in 2 weeklong TechWorks hackathons, and refactored a suite of old web/mobile applications totalling 100,000 lines of code. 
+
+
+- **MassAI**
+
+  **Events Coordinator**
+
+  *September 2023-Present*
+
+  In charge of event planning, support, and general e-board tasks. Developed software tool to enable reinforcement learning competitions. Led team of first-year students through their first semester-long ML project, including consulting research literature to guide methodology.
