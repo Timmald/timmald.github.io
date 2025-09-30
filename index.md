@@ -9,7 +9,7 @@
   <img src="face.jpg" alt="my face" style="width: 200px; margin-left: 20px;">
 </div>
 
-![alt umass logo](umass.jpeg)
+<img src="umass.jpeg" alt="umass logo" width="125"/>
 
 -------------
 ### Links
