@@ -3,7 +3,7 @@ I get curious about a lot of random stuff and try to make it a reality. Here is 
 
 - **GRPO Experimentation**
 
-  Experimented with Group-Relative Policy Optimizaiton (GRPO) for various LLM fine-tuning tasks. Attempted to create a reward function to measure the "rhymingness" of 2 lines of verse, in order to fine-tune a poetry LLM with RL. Also created a custom reward function to incentivize use of more frequent words, in attempt to fine-tune LLM to speak only in the most common english words
+  Experimented with Group-Relative Policy Optimizaiton (GRPO) for various LLM fine-tuning tasks. Attempted to create a reward function to measure the "rhymingness" of 2 lines of verse, in order to fine-tune a poetry LLM with RL. Also created a custom reward function to incentivize use of more frequent words, in attempt to fine-tune LLM to speak only in the most common english words.
 
 - **Script Generation**
 
@@ -16,7 +16,7 @@ I get curious about a lot of random stuff and try to make it a reality. Here is 
 
 - **Unsupervised Email Classifier**
 
-  Led team of first-year students to build this as their first project. Reviewed research literature and tested document clustering methodologies to provide advice and direction to the team. Created an email categorizer that can cluster emails and create a label for each of the clusters.
+  Led team of first-year students to build this as their introduction to Machine Learning. Reviewed research literature and tested document clustering methodologies to provide advice and direction to the team. Created an email categorizer that can cluster emails and create a human-readable label for each of the clusters it defines.
 
 - **Ship Name Generator**
 
@@ -28,5 +28,5 @@ I get curious about a lot of random stuff and try to make it a reality. Here is 
 
 - **Phoneme Spanning Set**
 
-  Wrote efficient search algorithm to find a set of English words that spans the set of all phonemes in American English
+  Wrote efficient search algorithm to find a set of English words that spans the set of all phonemes commonly occuring in American English.
 
