@@ -1,11 +1,13 @@
 ## Nathan Wolf
 
-<p style="display: inline-block; vertical-align: middle; margin: 0;">
-I am a senior at UMass Amherst studying Computer Science and Computational Linguistics. My research focus is mechanistic interpretability, specifically examining the intersection of NLP and linguistic phenomena. I am currently conducting a senior thesis on morphological tokenization advised by Katrin Erk, as well as doing interperetability research in the detection of "translationese" with Shira Wein.
-
-I also have experience in broader machine learning, as well as software engineering and applied LLMs. Outside of academia, my main interest is in the climate technology space.
-</p>
-<img src="face.jpg" alt="my face" style="display: inline-block; vertical-align: middle; width: 200px;">
+<div style="display: flex; align-items: center;">
+  <p style="margin: 0; max-width: 70%;">
+    I am a senior at UMass Amherst studying Computer Science and Computational Linguistics. My research focus is mechanistic interpretability, specifically examining the intersection of NLP and linguistic phenomena. I am currently conducting a senior thesis on morphological tokenization advised by Katrin Erk, as well as doing interperetability research in the detection of "translationese" with Shira Wein.
+    <br><br>
+    I also have experience in broader machine learning, as well as software engineering and applied LLMs. Outside of academia, my main interest is in the climate technology space.
+  </p>
+  <img src="face.jpg" alt="my face" style="width: 200px; margin-left: 20px;">
+</div>
 
 ### Links
 - CV
