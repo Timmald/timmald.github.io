@@ -14,10 +14,15 @@ My most relevant non-research experience
   <img src="stw_logo.jpeg" alt="stw logo" style="width: 200px; margin-left: 20px;">
   </div>
 
-- **MassAI**
-
-  **Events Coordinator**
-
-  *September 2023-Present*
-
-  In charge of event planning, support, and general e-board tasks. Developed software tool to enable reinforcement learning competitions. Led team of first-year students through their first semester-long ML project, including consulting research literature to guide methodology.
+- <div style="display: flex; align-items: center;">
+  <p style="margin: 0; max-width: 70%;">
+    <b>MassAI</b>
+    <br><br>
+    <b>Events Coordinator</b>
+    <br><br>
+    <i>September 2023-Present</i>
+    <br><br>
+    In charge of event planning, support, and general e-board tasks. Developed software tool to enable reinforcement learning competitions. Led team of first-year students through their first semester-long ML project, including consulting research literature to guide methodology.
+  </p>
+  <img src="massai.png" alt="stw logo" style="width: 200px; margin-left: 20px;">
+  </div>
