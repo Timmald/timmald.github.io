@@ -1,13 +1,20 @@
 ## Experience
 
 My most relevant non-research experience
-- **Shell TechWorks**
-
-  **Software Engineer Intern**
-
-  *Summers 2024, 2025*
-
-  Investigated the ways LLMs could be use for real-world business cases at TechWorks, including querying databases with natural language, complex document evaluation, and how/when to fine-tune LLMs for the best results and lowest cost. Also assisted with software engineering tasks, including participating in 2 weeklong TechWorks hackathons, and refactored a suite of old web/mobile applications totalling 100,000 lines of code. 
+- <div style="display: flex; align-items: center;">
+  <p style="margin: 0; max-width: 70%;">
+    **Shell TechWorks**
+    <br><br>
+    **Software Engineer Intern**
+    <br><br>
+    *Summers 2024, 2025*
+    <br><br>
+    Investigated the ways LLMs could be use for real-world business cases at TechWorks, including querying databases with natural language, complex document evaluation, and how/when to fine-tune LLMs for the best results and lowest cost. Also assisted with software engineering tasks, including participating in 2 weeklong TechWorks hackathons, and refactored a suite of old web/mobile applications totalling 100,000 lines of code.
+  </p>
+  <img src="stw_logo.jpeg" alt="stw logo" style="width: 200px; margin-left: 20px;">
+</div>
+-
+-  
 
 
 - **MassAI**
