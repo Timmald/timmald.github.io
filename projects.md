@@ -13,3 +13,7 @@ I get curious about a lot of random stuff and try to make it a reality. Here is 
 - **Unnatural Language Processing**
 
   Trained RNN-based model to predict phonemes from english text, and built a web application around it to make a text-to-speech site.
+
+- **Unsupervised Email Classifier**
+
+  Led team of first-year students to build this as their first project. Reviewed research literature and tested document clustering methodologies to provide advice and direction to the team. Created an email categorizer that can cluster emails and create a label for each of the clusters.
