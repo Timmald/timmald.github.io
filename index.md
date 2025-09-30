@@ -8,7 +8,7 @@
   </p>
   <img src="face.jpg" alt="my face" style="width: 200px; margin-left: 20px;">
 </div>
-
+-------------
 ### Links
 - CV
 - GitHub
@@ -17,7 +17,7 @@
 - **[Personal Projects](/projects)**
 
 Email: nwolf3275@gmail.com
-
+-----------------
 ### Ongoing Research
 - **Crosslinguistic Performance Impacts of Morphological Tokenization for LLMs (working title)** - 2025
 
@@ -34,7 +34,7 @@ Email: nwolf3275@gmail.com
 
 
   TL;DR: Conducting interpretability research on a classifier that detects "translationese", text translated into english from another language.
-
+----------------------
 ### Publications
 - **Linking syntactic computation to eye movements in reading:  Evidence from agreement** - 2025
 
