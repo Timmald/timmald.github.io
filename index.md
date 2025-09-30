@@ -9,6 +9,8 @@
   <img src="face.jpg" alt="my face" style="width: 200px; margin-left: 20px;">
 </div>
 
+![alt umass logo](umass.jpeg)
+
 -------------
 ### Links
 - CV
