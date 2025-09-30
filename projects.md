@@ -18,7 +18,7 @@ I get curious about a lot of random stuff and try to make it a reality. Here is 
 
   Led team of first-year students to build this as their first project. Reviewed research literature and tested document clustering methodologies to provide advice and direction to the team. Created an email categorizer that can cluster emails and create a label for each of the clusters.
 
-- **Ship name generator**
+- **Ship Name Generator**
 
   Made intelligent combiner of 2 names by taking all possible combinations of any number of syllables from the 2 names, then ranking their wellformedness with a bigram phonetic model.
 
@@ -26,7 +26,7 @@ I get curious about a lot of random stuff and try to make it a reality. Here is 
 
   Computationally searched for as many words as possible that can form a complete sentence with just themselves, ideally repeated more than twice.
 
-- **Phoneme spanning set**
+- **Phoneme Spanning Set**
 
   Wrote efficient search algorithm to find a set of English words that spans the set of all phonemes in American English
 
