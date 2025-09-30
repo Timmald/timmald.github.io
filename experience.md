@@ -15,6 +15,7 @@ My most relevant non-research experience
   <br>
   </div>
 <br>
+
 - <div style="display: flex; align-items: center;">
   <p style="margin: 0; max-width: 70%;">
     <b>MassAI</b>
