@@ -18,6 +18,7 @@
 - **[Personal Projects](/projects)**
 
 Email: nwolf3275@gmail.com
+
 -----------------
 ### Ongoing Research
 - **Crosslinguistic Performance Impacts of Morphological Tokenization for LLMs (working title)** - 2025
