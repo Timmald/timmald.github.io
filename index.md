@@ -6,7 +6,7 @@
     <br><br>
     I also have experience in broader machine learning, as well as software engineering and applied LLMs. Outside of academia, my main interest is in the climate technology space.
   </p>
-  <img src="face.jpg" alt="my face" style="width: 200px; margin-left: 20px;">
+  <img src="li_pfp.jpeg" alt="my face" style="width: 200px; margin-left: 20px;">
 </div>
 
 -------------
