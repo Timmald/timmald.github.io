@@ -9,8 +9,6 @@
   <img src="face.jpg" alt="my face" style="width: 200px; margin-left: 20px;">
 </div>
 
-<img src="umass.jpeg" alt="umass logo" width="125"/>
-
 -------------
 ### Links
 - [CV](cv.pdf)
