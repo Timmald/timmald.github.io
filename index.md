@@ -13,9 +13,9 @@
 
 -------------
 ### Links
-- CV
-- GitHub
-- LinkedIn
+- [CV](cv.pdf)
+- [GitHub](https://github.com/Timmald)
+- [LinkedIn](https://www.linkedin.com/in/nathanw0lf/)
 - **[Experience](/experience)**
 - **[Personal Projects](/projects)**
 
