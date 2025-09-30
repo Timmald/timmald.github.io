@@ -17,7 +17,7 @@
 - **[Experience](/experience)**
 - **[Personal Projects](/projects)**
 
-Email: nwolf3275@gmail.com
+Email: [nwolf3275@gmail.com](mailto:nwolf3275@gmail.com)
 
 -----------------
 ### Ongoing Research
