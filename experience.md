@@ -14,7 +14,7 @@ My most relevant non-research experience
   <img src="stw_logo.jpeg" alt="stw logo" style="width: 200px; margin-left: 20px;">
   <br>
   </div>
-
+<br>
 - <div style="display: flex; align-items: center;">
   <p style="margin: 0; max-width: 70%;">
     <b>MassAI</b>
