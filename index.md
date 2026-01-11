@@ -29,13 +29,6 @@ Email: [nwolf3275@gmail.com](mailto:nwolf3275@gmail.com)
 
 
   TL;DR: Examining the impacts of morphologically aligned tokenization on downstream LLM performance across languages with different word formation processes
-
-- **Untitled Interperetability Research** - 2025
-
-  Shira Wein, Nathan Wolf, et al.
-
-
-  TL;DR: Conducting interpretability research on a classifier that detects "translationese", text translated into english from another language.
   
 ----------------------
 ### Publications
@@ -47,3 +40,11 @@ Email: [nwolf3275@gmail.com](mailto:nwolf3275@gmail.com)
 
 
   TL;DR: Examining the sources of the slowdown in text processing when disambiguating an ungrammatical sentence in which the ungrammaticality was not detected
+
+- **Lost in Translation, and Found: Detecting and Interpreting Translation Effects** - 2025
+
+  Shira Wein, Anna Serbina, Jiyuan Ji, **Nathan Wolf**, Jason DeGraaf, Prajakta Kini, Maria Leonor Pacheco
+
+  *Submitted to ACL*
+
+  TL;DR: Conducting interpretability research on a classifier that detects "translationese", text translated into english from another language. Finding linguistic features the classifier uses to perform this task better than humans.
